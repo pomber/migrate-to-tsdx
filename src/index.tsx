@@ -1,6 +1,3 @@
-import * as React from 'react';
+import MyComponent from './my-component';
 
-// Delete me
-export const Thing = () => {
-  return <div>the snozzberries taste like snozzberries</div>;
-};
+export const Thing = MyComponent;
