@@ -1,7 +1,7 @@
 {
   "include": ["src", "types"],
   "compilerOptions": {
-    "allowJs": false,
+    "allowJs": true,
     "declaration": false,
     "jsx": "react",
     "esModuleInterop": true
